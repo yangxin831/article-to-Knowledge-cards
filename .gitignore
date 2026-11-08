@@ -1,0 +1,6 @@
+# WorkBuddy 内部工作数据，不公开
+.workbuddy/
+
+# 操作系统垃圾文件
+Thumbs.db
+.DS_Store
